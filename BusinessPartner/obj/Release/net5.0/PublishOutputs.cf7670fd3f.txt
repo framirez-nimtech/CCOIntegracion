@@ -1,0 +1,11 @@
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\BusinessPartner.exe
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\BusinessPartner.dll
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\BusinessPartner.deps.json
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\BusinessPartner.runtimeconfig.json
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\BusinessPartner.pdb
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Wil\workspace\BusinessPartner\BusinessPartner\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
