@@ -50,10 +50,17 @@ namespace BusinessPartner
 
             app.UseAuthorization();
 
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapControllers();
+            //});
+
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllerRoute("Default", "{controller=Home}/{action=Index}/{id?}");
             });
+
+
         }
     }
 }
